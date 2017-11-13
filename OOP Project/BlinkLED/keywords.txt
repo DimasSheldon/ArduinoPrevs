@@ -1,0 +1,2 @@
+BlinkLED	KEYWORD1
+doBlink	KEYWORD2
